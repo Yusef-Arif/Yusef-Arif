@@ -13,15 +13,15 @@ I’m a passionate front-end developer and a computer science student, always ea
 ## 💼 Skills
 
 ### **Front-End Development:**
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript,Typescript
 - **Frameworks & Libraries:** React.js
-- **CSS Frameworks & Preprocessors:** Bootstrap, Tailwind, Sass
+- **CSS Frameworks & Preprocessors:** Bootstrap, Tailwind, Sass,framer motion
 - **Version Control:** Git, GitHub
 - **Responsive Design:** Building mobile-first web applications with a focus on accessibility and performance.
 
 ### **Other Technical Skills:**
 - **Programming Languages:** C++
-- **Concepts:** Object-Oriented Programming (OOP), Computer Architecture, Networks
+- **Concepts:** Object-Oriented Programming (OOP), Computer Architecture, Networks 
 
 ---
 
